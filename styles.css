@@ -1,0 +1,194 @@
+.header{
+    background:#3b5998;
+     width: 100%;
+     height: 85px;
+}
+body{
+    margin:0;
+}
+.logo{
+    width:50px;
+    padding-top: 30px;
+    float: left;
+}
+.login{
+    width: 500px;
+    float: left;
+    padding-top: 10px;
+}
+.logo-text{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family:Helvetica Neue,Arial, Helvetica, sans-serif;
+    margin-top:85px ;
+    margin-left: 150px;
+    
+}
+.login_label{
+ color: white;
+ font-size:17px;
+}
+.login-controls{
+    margin-left: 750px;
+}
+
+.forgotten-account{
+    color: rgba(255, 255, 255, 0.904);
+    font-size: 15px;
+    text-decoration: none;   
+}
+.login-button{
+    color: white;
+    background-color:#426dcb;
+    width: 66px;
+    height: 23px;
+    cursor: pointer;
+}
+.login-button:hover{
+    background: #99aedd;
+}
+.main-body{
+    height: 570px;
+    width: 100%;
+    background : linear-gradient(white,rgb(200, 200, 202)) 
+}
+.left{
+    width: 50%;
+    height: 500px;
+    float: left; 
+}
+.right{ 
+    width: 50%;
+   float: left;
+    height: 500px;
+}
+.para {
+    padding-top: 10px;
+    font-family:Helvetica Neue,Arial, Helvetica, sans-serif;
+    padding-left: 150px;
+    color: #030c33e7;
+    font-size: 23px;
+    font-weight: bold;
+}
+.image{
+    padding-left: 170px;
+    height: 200px;
+}
+.head{
+    color: #030c33e7;
+    font-family:Helvetica Neue,Arial, Helvetica, sans-serif;
+    font-weight:1000;
+    padding-left: 100px;
+    padding-top: 10px ;
+    font-size: 30px;
+}
+.easy{
+    color: #030c33e7;
+    font-family:Helvetica Neue,Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    padding-left: 100px;
+    font-size: 20px;
+}
+.first-name {
+    margin-left: 110px;
+    height: 25px;
+    border-radius: 4px;
+    font-size: 15px;
+    border-color:white; 
+}
+.sure-name{
+    height: 25px;
+    margin-left: 10px;
+    border-radius: 4px;
+    font-size: 15px;
+    border-color:white; 
+}
+.number-email {
+    margin-top: 15px;
+    margin-left: 110px;
+    width: 420px;
+    height: 25px;
+    border-radius: 4px;
+    font-size: 15px;
+    border-color:white; 
+}
+.new-password{
+    margin-top: 15px;
+    margin-left: 110px;
+    width: 420px;
+    border-radius: 4px;
+    font-size: 15px;
+    height: 25px;
+    border-color:white; 
+}
+.birthday {
+    margin-top: 18px;
+    margin-left: 110px;
+    border-radius: 4px;
+    font-size: 15px;
+    height: 25px;
+    color: rgb(82 82 82);
+    font-weight: bolder;
+    margin-bottom: -4px;
+}
+.birthday-date{
+    padding-left: 110px;
+}
+.day{
+    font-size: 14px;
+    height: 29px;
+    width: 45px;
+}
+.month{
+    font-size: 14px;
+    height: 29px;
+    width: 60px;
+
+}
+.year{
+    font-size: 14px;
+    height: 29px;
+    width: 60px;
+}
+.gender{
+    margin-top: 15px;
+    margin-left: 110px;
+    border-radius: 4px;
+    font-size: 15px;
+    height: 25px;
+    color: rgb(82 82 82);
+    font-weight:bolder;
+}
+.radio {
+    margin-top: -13px;
+    margin-left: 110px;
+    border-radius: 4px;
+    font-size: 18px;
+    height: 25px;
+    color: rgb(75, 75, 75);
+    font-weight: bolder;
+}
+.para2{
+    padding-left: 110px;
+    font-size: 12px;
+    color: #000000a8;
+    FONT-WEIGHT: 400;
+    
+}
+.submit {
+    margin-left: 109px;
+    color: white;
+    background: rgb(24 176 24 / 91%);
+    height: 35px;
+    width: 170px;
+    border-radius: 5px;
+}
+.celebrity {
+    font-size: 14px;
+    color: black;
+    margin-left: 107px;
+    font-weight: 550;
+    margin-top: 30px;
+}
